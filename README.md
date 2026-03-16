@@ -1,1 +1,1 @@
-https://online-quiz-platform-1bfo.onrender.com/dashboard.html
+https://online-quiz-platform-1bfo.onrender.com
